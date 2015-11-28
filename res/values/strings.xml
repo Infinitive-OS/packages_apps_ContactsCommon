@@ -835,6 +835,9 @@ a        ren't members of any other group. [CHAR LIMIT=25] -->
 
     <!-- Button used to start a new call with the user entered subject. [CHAR LIMIT=32] -->
     <string name="send_and_call_button">SEND &amp; CALL</string>
+    
+    <!-- Menu item used to initiate ip call -->
+    <string name="ipcall_dialog_edit_hint">Please input the IP prefix</string>
 
     <!-- String used to represent the total number of characters entered for a call subject,
          compared to the character limit.  Example: 2 / 64 -->
